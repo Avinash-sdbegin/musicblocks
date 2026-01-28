@@ -3019,7 +3019,7 @@ msgstr "सितार"
 #: js/utils/musicutils.js:1115
 msgid "harmoiunm"
 # TRANS: machine translation
-msgstr "harmoiunm"
+msgstr "हार्मोनियम"
 
 #: js/utils/musicutils.js:1116
 #: js/utils/synthutils.js:94
